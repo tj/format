@@ -1,0 +1,9 @@
+{
+  "name": "format",
+  "repo": "heavyk/format",
+  "description": "printf-like formatting for JavaScript",
+  "version": "0.1.4",
+  "scripts": [
+    "index.js"
+  ]
+}
