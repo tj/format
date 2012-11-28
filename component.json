@@ -2,6 +2,7 @@
   "name": "format",
   "repo": "heavyk/format",
   "description": "printf-like formatting for JavaScript",
+  "keywords": ["printf", "sprintf", "format", "string"],
   "version": "0.1.4",
   "scripts": [
     "index.js"
